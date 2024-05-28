@@ -32,6 +32,5 @@ Alternatively, you can play the game online by visiting [Simon_says](https://d-s
 
 ## Example
 <img width="960" alt="Screenshot 2024-05-07 015530" src="https://github.com/DineshDuvvuri/Simon_says/assets/152904153/7a830ad8-bb78-481d-8ea2-80df4d8c42c1">
-<img width="960" alt="Screenshot 2024-05-07 015606" src="https://github.com/DineshDuvvuri/Simon_says/assets/152904153/7b17c4ac-cc69-4a62-8212-98e0679e974e">
 
  --- Made By Dinesh Duvvuri
